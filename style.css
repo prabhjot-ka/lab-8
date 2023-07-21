@@ -1,0 +1,46 @@
+
+body{
+    margin: 0px;
+    background-color: pink;
+}
+h1 {
+  font-family: 'Lumanosimo', cursive;
+  font-size: 50px;
+  padding: 20px;
+  color: blue;
+  text-align: center;
+  text-decoration: underline;
+}
+p {
+  font-size: 35px;
+  font-family: 'Mynerve', cursive;
+  text-decoration: none;
+  display: none;
+  align-items: center;
+  line-height: 55px;
+  padding-left: 10%;
+  width: 80%;
+  height: 20%;
+  cursor: pointer;
+  color: black;
+}
+#accordion{
+    list-style: none;
+}
+#accordion button{
+   align-items: center;
+   font-size: 3.5em;
+   line-height: 70px;
+   padding: center;
+   cursor: pointer;
+   color: red;
+   margin-bottom: 8px;
+   background-color: gold;
+   font-family: 'Norican', cursive;
+  }
+  header{
+    height: 125px;
+    display: flex;
+    align-items: center;
+    background-color: #000;
+  }
